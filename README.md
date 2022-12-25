@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AnshJindal21
 - 👀 I’m interested in web development,coding
 - 🌱 I’m currently learning whatever i can with a cimputer science major
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me u can email me on anshjindal132@gmail.com 
 
 <!---
